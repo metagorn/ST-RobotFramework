@@ -1,0 +1,12 @@
+email: Ab.stopbus+1@gmail.com
+valid_password: Password123!
+invalid_password: Password456!
+
+
+email_register: ysw.tn@gmail.com
+firstname_register: Metagorn
+lastname_register: Singkhan
+phone_register: 0814270196
+password_register: yswTn123
+confirm_password_register: yswTn123
+wrong_confirm_password_register: yswTn1234
